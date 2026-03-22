@@ -3,7 +3,7 @@
 **Experiment 2.2.2 - Full Stack Development**
 
 ## 🚀 Live Demo
-[Click here to view the API Status](YOUR_RENDER_URL_HERE)
+[Click here to view the API Status](https://banking-api-zj11.onrender.com/)
 
 ## ✨ Features
 - **Security:** Password hashing using `bcryptjs`.
